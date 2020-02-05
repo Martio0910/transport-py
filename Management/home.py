@@ -1,2 +1,5 @@
-import tkinter as tk
-tkMessageBox('hola')
+print('Bienvenido a mi programa de prueba en python')
+print('Vamos a sumar 2 números enteros')
+a = int(input('Introduce el primer número: '))
+b = int(input('Introduce el segundo número: '))
+print('El resultado es: ',a+b)
