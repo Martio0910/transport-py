@@ -2,4 +2,5 @@ print('Bienvenido a mi programa de prueba en python')
 print('Vamos a sumar 2 números enteros')
 a = int(input('Introduce el primer número: '))
 b = int(input('Introduce el segundo número: '))
-print('El resultado es: ',a+b)
+c = a+b
+print('El resultado es: ', c)
